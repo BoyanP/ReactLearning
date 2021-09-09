@@ -1,3 +1,5 @@
+~~~~This read me is the default read me from the tutorial ~~~~~~~~
+
 #### Tutorial Video
 
 (React Tutorial)[https://youtu.be/iZhV0bILFb0]
